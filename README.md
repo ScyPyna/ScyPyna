@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ScyPyna
 - 👀 I’m interested in Condensed Matter Physics, Deep Learning and Quantum Computing
 - 🌱 I’m currently learning deep clustering of autoencoders' latent space
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me giusyvrn@gmail.com and https://www.linkedin.com/in/giusy-varano-0277202aa/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love science, indie sad music and videogames
