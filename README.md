@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScyPyna
-- 👀 I’m interested in Condensed Matter Physics, Deep Learning and Quantum Computing
+- 👀 I’m interested in Soft Matter Physics and Deep Learning
 - 🌱 I’m currently learning deep clustering of autoencoders' latent space
 - 📫 How to reach me giusyvrn@gmail.com and https://www.linkedin.com/in/giusy-varano-0277202aa/
 - 😄 Pronouns: she/her
